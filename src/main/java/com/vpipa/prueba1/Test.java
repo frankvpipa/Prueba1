@@ -11,7 +11,7 @@ package com.vpipa.prueba1;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("____hola_de nuevo__");
+        System.out.println("____hola_de nuevo_");
         System.out.println("____calc:"+(5*6));
     }
 }
